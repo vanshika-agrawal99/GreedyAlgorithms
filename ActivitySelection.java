@@ -6,6 +6,10 @@ C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, S
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+/*1) Sort the activities according to their finishing time
+2) Select the first activity from the sorted array and print it.
+3) Do following for remaining activities in the sorted array.
+…….a) If the start time of this activity is greater than or equal to the finish time of previously selected activity then select this activity and print it.*/
 import java.util.*;
 import java.io.*;
 import java.lang.*;
